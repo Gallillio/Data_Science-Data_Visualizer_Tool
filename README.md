@@ -2,9 +2,9 @@
 
 ## Overview
 
-Data Visualizer Tool is a Python application designed to assist users in performing exploratory data analysis (EDA) and preprocessing for supervised machine learning tasks. The application provides a user-friendly interface built with Tkinter, allowing users to easily load datasets, visualize data, and apply various transformations.
+Data Visualizer Tool is a Python application designed to assist users in performing exploratory data analysis (EDA). The application provides a user-friendly interface built with Tkinter, allowing users to easily load datasets, visualize data, and apply various transformations.
 
-This project was created during my early years at university, and while it serves its purpose, I plan to redo it using more modern frameworks like Flask, Django, or FastAPI if I have the time, as Tkinter is considered an outdated tool for building GUIs.
+This project was created during my early years at university, and while it serves its purpose, Since Tkinter is considered an outdated tool for building GUIs, I plan to redo it using more modern frameworks like Flask, Django, or FastAPI as well as include Machine Learning capabilities. (If I have the time that is).
 
 ## Features
 
