@@ -4,6 +4,8 @@
 
 Supervised ML Helper is a Python application designed to assist users in performing exploratory data analysis (EDA) and preprocessing for supervised machine learning tasks. The application provides a user-friendly interface built with Tkinter, allowing users to easily load datasets, visualize data, and apply various transformations.
 
+This project was created during my early years at university, and while it serves its purpose, I plan to redo it using more modern frameworks like Flask, Django, or FastAPI if I have the time, as Tkinter is considered an outdated tool for building GUIs.
+
 ## Features
 
 - **Load CSV Files**: Users can select and load CSV files into the application for analysis.
@@ -31,8 +33,6 @@ Supervised ML Helper is a Python application designed to assist users in perform
   ![Histogram EDA](Results%20Pictures/Histogram%20EDA.png)
 
 - **Correlation Analysis**: Users can visualize correlations between different columns in the dataset using heatmaps.
-
-  ![Correlation Heatmap](Results%20Pictures/Correlation.png)
 
 - **Interaction Analysis**: Users can explore interactions between different features in the dataset through scatter plots.
 
